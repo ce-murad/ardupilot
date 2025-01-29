@@ -1,0 +1,9 @@
+pyserial
+pymavlink
+future
+matplotlib
+numpy
+pyulog
+python-dateutil
+lxml
+
